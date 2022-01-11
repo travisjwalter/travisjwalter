@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Travis Walter and I am a senior in Computer Science at North Carolina State University. I am also a development intern with Promtheus Group!
+- 👋 Hi, my name is Travis Walter and I am a Solution Delivery Engineer at Sandbox Banking.
 - 👀 I’m interested in the aerospace, defence, finance, and software development fields!
 - 🌱 I’m currently learning SwiftUI, React, Typescript, and C#!
 - 💞️ I’m looking to collaborate on Open-source Python3 projects relating to my interests.
