@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Travis Walter and I am a Solution Delivery Engineer at Sandbox Banking.
-- 👀 I’m interested in the aerospace, defence, finance, and software development fields!
-- 🌱 I’m currently learning SwiftUI, React, Typescript, and C#!
+- 👀 I’m interested in the aerospace, defense, finance, and software development fields!
+- 🌱 I’m currently learning Swift, Expo, and C#!
 - 💞️ I’m looking to collaborate on Open-source Python3 projects relating to my interests.
 - 📫 How to reach me: travisjwalter2016@gmail.com is the best place to reach me :D
 
